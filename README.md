@@ -4,7 +4,10 @@
 This project involves building a deep neural network (DNN) using only the NumPy to classify handwritten digits from the MNIST dataset.
 
 ### Gradient Descent
-I trained the model using batch gradient descent. Cross-entropy loss is minimized by adjusting the model's weights and biases with back propagation. I used the ReLU activation function in the hidden layer and stable softmax activation in the output layer. I saved the best weights and biases with monitoring validation accuracy.
+* I trained the model using batch gradient descent.
+* Cross-entropy loss is minimized by adjusting the model's weights and biases with back propagation.
+* I used the ReLU activation function in the hidden layer and stable softmax activation in the output layer.
+* I saved the best weights and biases with monitoring validation accuracy.
 
 ### Model Structure
 
