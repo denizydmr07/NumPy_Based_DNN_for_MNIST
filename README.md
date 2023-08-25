@@ -1,7 +1,7 @@
 # MNIST Digit Recognition with NumPy-Based Deep Neural Network
 
 ### Overview
-This project involves building a deep neural network (DNN) using only the NumPy to classify handwritten digits from the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset.
+This project involves building a deep neural network (DNN) using only the NumPy to classify handwritten digits from the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset. The “main.ipynb” file consists of data loading and preprocessing, custom feed-forward, custom loss calculation, custom gradient descent, and custom training parts.
 
 ### Gradient Descent
 * I trained the model using batch gradient descent.
